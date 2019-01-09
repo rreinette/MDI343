@@ -1,6 +1,6 @@
 #  MDI343
 **Practical Work List :**
-  * TP1 : 
+  * TP1 : Stochastic Gradient and Perceptron
   * TP2 : 
   * TP3 : 
   * TP4 : 
