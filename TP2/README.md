@@ -1,1 +1,1 @@
-#KNN, LDA, Logistic Regrssion
+# KNN, LDA, Logistic Regrssion
